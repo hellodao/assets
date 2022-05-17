@@ -2132,5 +2132,12 @@ module.exports = {
       icon: "https://raw.githubusercontent.com/neworld-labs/token-list/master/assets/MainNet/NWT.png",
       decimals: 9
     },
+    terra1r260yyyr2ujvlzvcf83tknu6293gvqndc6csg5: {
+      protocol: "Wormhole",
+      symbol: "whHELLO",
+      name: "HelloDAO Game Token",
+      token: "terra1r260yyyr2ujvlzvcf83tknu6293gvqndc6csg5",
+      icon: "https://www.hellodao.world/images/hello_128.png"
+    },
   }
 }
